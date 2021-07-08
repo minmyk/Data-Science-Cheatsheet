@@ -1,70 +1,74 @@
 ## TECH STACK
 ### ML
-optuna
-mlflow
-pytorch
-boostings
-validation schemes
-Gym, RL, Pytorch, CV (GANs, OCR), NLP (Bert, Transformers)
-sklearn pipelines
+optuna;
+mlflow;
+pytorch;
+boostings;
+validation schemes;
+Gym;
+RL;
+Pytorch;
+CV (GANs, OCR);
+NLP (Bert, Transformers);
+sklearn pipelines;
 
 ### DEVOPS
-jenkins
-docker
-docker-compose
-kubernetes
+jenkins;
+docker;
+docker-compose;
+kubernetes;
 
 ### DBs
-redis
-mongo
-elastic
-sql server
-apache spark
+redis;
+mongo;
+elastic;
+sql server;
+apache spark;
 
 ### VCS&DEV
-git flow
-gitlab
-bitbucket
-jira
-kanban
-scrum
-SOLID
+git flow;
+gitlab;
+bitbucket;
+jira;
+kanban;
+scrum;
+SOLID;
 
 ### WEB
-AWS
-AZURE
+AWS;
+AZURE;
 
 ### PYTHON
-REST APIs
-sqlalchemy/pymongo/elastic
-OOP
-metaclasses
-inheritance
-abstract methods
-base types
-standart functions
-Euler tasks
-flask/fastapi
-telegram bots
-unittest/pytest
-webhooks
-patterns!!!
+REST APIs;
+sqlalchemy/pymongo/elastic;
+OOP;
+metaclasses;
+inheritance;
+abstract methods;
+base types;
+standart functions;
+Euler tasks;
+flask/fastapi;
+telegram bots;
+unittest/pytest;
+webhooks;
+patterns!!!;
 
 ### BASH
-cron
-scripting!!!!
+cron;
+scripting!!!!;
 
 ### MATH
-statistics
-linear algebra
-math analysis
-t-test, etc
-distributions
-blockchain
-bayes formula & methods
+statistics;
+linear algebra;
+math analysis;
+t-test, etc;
+distributions;
+blockchain;
+bayes formula & methods;
 
-##TYPICAL QA
-###ML
+## TYPICAL QA
+### ML
 1) Классификация МЛ задач: supervised, semi-supervised, unsupervised, reinforcement-learning
 2) Для supervised - классификация и регрессия (постановка задачи и как решаются)
 3) Как работает линрег и логрег, расписать формулу самой функции и возможно написать формулу для градиента
