@@ -96,5 +96,5 @@ bayes formula & methods;
 5) Что-то рассказать о себе
 
 ## USEFUL LINKS
-https://www.katacoda.com/courses/jenkins/build-docker-images
-https://docs.python.org/3/
+1) https://www.katacoda.com/courses/jenkins/build-docker-images 
+2) https://docs.python.org/3/ 
