@@ -11,6 +11,7 @@ Pytorch;
 CV (GANs, OCR);
 NLP (Bert, Transformers);
 sklearn pipelines;
+vovpal wabbit;
 
 ### DEVOPS
 jenkins;
@@ -98,3 +99,4 @@ bayes formula & methods;
 ## USEFUL LINKS
 1) https://www.katacoda.com/courses/jenkins/build-docker-images 
 2) https://docs.python.org/3/ 
+3) https://github.com/VowpalWabbit/vowpal_wabbit
